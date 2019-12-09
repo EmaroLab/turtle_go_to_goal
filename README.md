@@ -21,6 +21,7 @@
 	- After giving the goal position, the turtle should (1) orient itself in the direction of the goal position, and (2) go to the goal position.
 	- The node files `turtle_go_to_goal.cpp` and `turtle_go_to_goal.py` are incomplete but provide an initial overall structure and hints.
 - Dont forget to check your `CMakeLists.txt` and `package.xml` before doing catkin_make.
+- **NOTE THAT:** There **can be** publishers and subscribers within a single node.
 - Once you successfully run and test your node, fill in the results table.
 
 ## Results
